@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#!/usr/bin/env bash
+# --------------------------------------------------------------
+# Quick‑start script to create a new GitHub repository and push
+# the initial commit.
+#
+# Prerequisites:
+#   • git installed and configured (user.name & user.email)
+#   • curl installed
+#   • A GitHub personal‑access‑token (PAT) with repo scope
+#
