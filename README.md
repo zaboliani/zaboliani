@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 #   • A GitHub personal‑access‑token (PAT) with repo scope
 #
 im f
+https://askjune.ai/app/chat
