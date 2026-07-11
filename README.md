@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 #
 im f
 https://askjune.ai/app/chat
- the advantages and disadvantages.
+ 
 
 
