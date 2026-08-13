@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun : ...
 -->
-#!/usr/bin/env bash
+#!/r/bin/env bash
 # --------------------------------------------------------------
 # Quick‑start script to create a new GitHub repository and push
 # the initial commit.
