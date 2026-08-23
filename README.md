@@ -11,7 +11,7 @@
 - 🤔
 - .
 - 📫.
--onouns: ...
+ns: ...
 - 
 
 #!/r/bin/env bash
