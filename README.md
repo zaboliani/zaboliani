@@ -19,7 +19,7 @@ ns: ...
 # Quick‑start script to create a new GitHub repository and push
 # the initial commit.
 #
-# Prerequisites:
+erequisites:
 #   • git installed and configured (user.name & user.email)
 #   • curl installed
 #   • A GitHub personal‑access‑token (PAT) with repo scope
