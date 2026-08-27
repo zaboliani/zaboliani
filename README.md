@@ -14,7 +14,7 @@
 
 - 
 
-#!/r/bin/env bash
+bin/env bash
 # --------------------------------------------------------------
 # Quick‑start script to create a new GitHub repository and push
 # the initial commit.
