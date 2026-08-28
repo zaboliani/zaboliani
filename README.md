@@ -17,7 +17,7 @@
 bin/env bash
 # --------------------------------------------------------------
 # Quick‑start script to create a new GitHub repository and push
-# the initial commit.
+# e initial commit.
 #
 erequisites:
 #   • git installed and configured (user.name & user.email)
