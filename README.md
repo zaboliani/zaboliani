@@ -21,7 +21,7 @@ mmit.
 erequisites:
 #   • git installed and configured (user.name & user.email)
 #   • curl installed
-#   • A GitHub personal‑access‑token (PAT) with repo scope
+#   • GitHub personal‑access‑token (PAT) with repo scope
 #
 im f
 https://askjune.ai/app/chat
