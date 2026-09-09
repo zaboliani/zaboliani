@@ -16,7 +16,7 @@
 bin/env bash
 # --------------------------------------------------------------
 #ick‑start script to create a new GitHub repository and push
-mmit.
+it.
 
 erequisites:
 #   • git installed and configured (user.name & user.email)
