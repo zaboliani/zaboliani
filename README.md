@@ -21,7 +21,7 @@ bin/env bash
 erequisites:
 #   • git installed and configured (user.name & user.email)
 #   • curl installed
-#   • GitHub personal‑access‑token (PAT) with repo scope
+#   tHub personal‑access‑token (PAT) with repo scope
 #
 im f
 https://askjune.ai/app/chat
