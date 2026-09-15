@@ -13,7 +13,7 @@
 - 
 - 
 
-bin/env bash
+bin/nv bash
 --------------------------------------------------------------
 #ick‑start script to create a new GitHub repository and push
 .
