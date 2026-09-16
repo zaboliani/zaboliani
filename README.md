@@ -13,7 +13,7 @@
 - 
 - 
 
-bin/nv bash
+bin/nvsh
 --------------------------------------------------------------
 #ick‑start script to create a new GitHub repository and push
 .
