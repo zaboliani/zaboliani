@@ -19,7 +19,7 @@ bin/nvsh
 .
 
 erequisites:
-#    installed and configured (user.name & user.email)
+#    nstalled and configured (user.name & user.email)
 #   • curl installed
 #   tHub personal‑access‑token (PAT) with repo scope
 #
