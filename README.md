@@ -18,7 +18,7 @@ bin/nvsh
 #ick‑start script to create a new GitHub repository and push
 .
 
-erequisites:
+uisites:
 #    nstalled and configured (user.name & user.email)
 #   • curl installed
 #   tHub personal‑access‑token (PAT) with repo scope
