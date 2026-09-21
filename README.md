@@ -15,7 +15,7 @@
 
 bin/nvsh
 --------------------------------------------------------------
-ick‑start script to create a new GitHub repository and push
+k‑start script to create a new GitHub repository and push
 .
 
 uisites:
