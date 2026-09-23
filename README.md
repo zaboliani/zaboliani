@@ -19,7 +19,7 @@ bin/nvsh
 .
 
 uisites:
-#    nstalled and configured (user.name & user.email)
+#   talled and configured (user.name & user.email)
 #   • curl installed
 #   tHub personal‑access‑token (PAT) with repo scope
 #
