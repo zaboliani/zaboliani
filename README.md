@@ -21,7 +21,7 @@ bin/nvsh
 uisites:
 #   talled and configured (user.name & user.email)
 #   • curl installed
-#   tHub personal‑access‑token (PAT) with repo scope
+#   Hub personal‑access‑token (PAT) with repo scope
 #
 im f
 https://askjune.ai/app/chat
