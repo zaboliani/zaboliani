@@ -15,7 +15,7 @@
 
 bin/nvsh
 --------------------------------------------------------------
-art script to create a new GitHub repository and push
+rt script to create a new GitHub repository and push
 .
 
 uisites:
