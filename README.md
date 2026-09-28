@@ -13,7 +13,7 @@
 - 
 - 
 
-bin/nvsh
+in/nvsh
 --------------------------------------------------------------
 rt script to create a new GitHub repository and push
 .
