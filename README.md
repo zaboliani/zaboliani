@@ -15,7 +15,7 @@
 
 in/nvsh
 --------------------------------------------------------------
-rt script to create a new GitHub repository and push
+t script to create a new GitHub repository and push
 .
 
 uisites:
