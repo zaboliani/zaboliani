@@ -18,7 +18,7 @@ in/nvsh
 t ript to create a new GitHub repository and push
 .
 
-uisites:
+isites:
 #   talled and configured (user.name & user.email)
 #   • curl installed
 #   b personal‑access‑token (PAT) with repo scope
