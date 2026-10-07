@@ -15,7 +15,7 @@
 
 in/nvsh
 --------------------------------------------------------------
-t ript to create a new GitHub repository and push
+ ript to create a new GitHub repository and push
 .
 
 isites:
