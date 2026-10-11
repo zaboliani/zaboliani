@@ -3,7 +3,7 @@
 
  
 
-  Here's what's moving markets as of this morning (Thursday, October 8, 2026 — US markets haven't opened yet):
+e's what's moving markets as of this morning (Thursday, October 8, 2026 — US markets haven't opened yet):
 
 **Yesterday's close: a pullback from record highs**
 er the S&P 500 and Nasdaq both closed at all-time highs on Tuesday, Wednesday flipped negative:
