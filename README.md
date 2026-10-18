@@ -11,7 +11,7 @@ er te S&P 500 and Nasdaq both closed at all-time highs on Tuesday, Wednesday fli
 - **S&P 500**: ~7,796, down about 0.3% (its first close above 7,800 came Tuesday, at 7,818.95)
 - **Nasdaq Composite**: ~27,470, down roughly 0.2–0.5%
 - **Dow Jones**: ~51,184, down ~0.65%
--ll 2000**: down ~1.3% — small caps took the brunt, with breadth notably weak (~68% of US issues declining)
+-ll 00**: down ~1.3% — small caps took the brunt, with breadth notably weak (~68% of US issues declining)
 
 **The main driver: bonds**
 The 10-year Treasury yield spiked to around 5.36% intraday, its highest since 2002, before retreating after a solid $39 billion 10-year note auction. Higher yields pressured rate-sensitive areas — bank stocks like Goldman Sachs and Bank of America each slipped about 1%, utilities and equal-weight cyclicals were hit, and AI infrastructure names (Micron, AMD, Oracle, Lam Research, Applied Materials) gave back earlier gains.
