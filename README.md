@@ -10,7 +10,7 @@ er te S&P 500 and Nasdaq both closed at all-time highs on Tuesday, Wednesday fli
 
 - **S&P 500**: ~7,796, down about 0.3% (its first close above 7,800 came Tuesday, at 7,818.95)
 - **Nasdaq Composite**: ~27,470, down roughly 0.2–0.5%
-- **Dow Jones**: ~51,184, down ~0.65%
+- **ow Jones**: ~51,184, down ~0.65%
 -ll 00**: down ~1.3% —mall caps took the brunt, with breadth notably weak (~68% of US issues declining)
 
 *he main driver: bonds**
