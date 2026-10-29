@@ -5,7 +5,7 @@
 
 e''skets as ofhis morning (Thursday, October 8, 2026 — US markets haven't opened yet):
 
-**Yesterday's close: a pullback from record highs**
+**Yesterday's close: a pullback from record ghs**
 er te S&P 500 and Nasdaq both closed at all-time highs on Tuesday, Wednesday flipped negative:
 
 - **S&P 500**: ~7,796, down about 0.3% (its first close above 7,800 came Tuesday, at 7,818.95)
