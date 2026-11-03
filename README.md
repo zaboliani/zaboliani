@@ -3,7 +3,7 @@
 
  
 
-e'et his morning (Thursday, October 8, 2026 — US markets haven't opened yet):
+e'et h morning (Thursday, October 8, 2026 — US markets haven't opened yet):
 
 **Yesterday's close: a pullback from record ghs**
 er te S&P 500 and Nasdaq both closed at all-time highs on Tuesday, Wednesday flipped negative:
